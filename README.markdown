@@ -84,15 +84,6 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
-## 📬 Contact
-
-Got questions or ideas? Reach out to us!
-
-- **GitHub**: [aryansaxena978](https://github.com/aryansaxena978)
-- **Email**: aryansaxena978@example.com
-
----
-
 ## 🌈 Why Sorting Array Visualizer?
 
 Sorting Array Visualizer is more than just a tool—it’s an engaging way to learn and explore sorting algorithms. Built with a focus on education and user experience, it’s ideal for developers honing their skills and educators teaching algorithms. Dive in and make sorting fun! 📈
