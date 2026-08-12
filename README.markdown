@@ -37,29 +37,6 @@ Welcome to **Sorting Array Visualizer**, an interactive web application that bri
 
 ---
 
-## 🛠️ Installation
-
-Get the Sorting Array Visualizer running locally in just a few steps!
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/aryansaxena978/Sorting-Array-Visualizer.git
-   cd Sorting-Array-Visualizer
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the Application**:
-   ```bash
-   npm start
-   ```
-   Open your browser and visit `http://localhost:3000` to explore the visualizer!
-
----
-
 ## 🌟 Usage
 
 1. **Select an Algorithm**: Choose from the dropdown menu (e.g., Bubble Sort, Quick Sort).
